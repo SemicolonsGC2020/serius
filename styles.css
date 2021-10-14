@@ -7,6 +7,7 @@ body {
 }
 
 
+
 #lottie{
     width:300%;
     height:300%;
@@ -35,6 +36,13 @@ body {
   margin-right: 40px;
 }
 
+.logo img{
+  position:absolute;
+  margin-top:15px;
+  margin-left:10px;
+  width="20%" 
+  height="20%"
+}
 
 .container-fluid {
   padding: 3% 10%;
@@ -50,7 +58,7 @@ body {
 }
 
 .intro-2 {
-  font-size: 6rem;
+  font-size: 5rem;
   line-height: 120%;
 }
 
