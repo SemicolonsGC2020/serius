@@ -1,5 +1,4 @@
 html {
-    height: 100%;
     overflow: hidden;
 }
 body {
@@ -9,13 +8,13 @@ body {
 
 
 #lottie{
-    width:300%;
-    height:300%;
+    width:200%;
+    height:200%;
     overflow: hidden;
     transform: translate3d(0,0,0);
     opacity: 1;
-    margin-top: -20%;
-    margin-left: -90%;
+    margin-top: -10%;
+    margin-left: -50%;
 }
 
 
